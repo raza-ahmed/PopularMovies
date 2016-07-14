@@ -7,6 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.GridView;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
@@ -15,6 +16,7 @@ import java.util.Arrays;
 public class MainActivityFragment extends Fragment {
 
     private PopularMoviesAdapter moviesAdapter;
+    private ArrayList<PopularMovies> popularMoviesList;
 
     PopularMovies[] popularMovies = {
 
@@ -33,6 +35,22 @@ public class MainActivityFragment extends Fragment {
 
     public MainActivityFragment() {
     }
+
+    @Override
+    public void onCreate(Bundle savedInstanceState){
+        super.onCreate(savedInstanceState);
+        if (savedInstanceState==null || !savedInstanceState.containsKey("popular")){
+            popularMoviesList = new ArrayList<PopularMovies>(Arrays.asList(popularMovies));
+        }
+    }
+
+    @Override
+    public void onSaveInstanceState(Bundle outState){
+        outState.putParcelableArrayList("popular", popularMoviesList);
+        super.onSaveInstanceState(outState);
+    }
+    
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
