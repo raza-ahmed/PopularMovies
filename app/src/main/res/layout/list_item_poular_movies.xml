@@ -14,7 +14,7 @@
         android:textStyle="bold"
         android:id="@+id/list_item_movie_title"/>
 
-    <EditText
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/list_item_release_date"/>
