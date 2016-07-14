@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -62,7 +63,7 @@ public class PopularMoviesAdapter extends ArrayAdapter<PopularMovies> {
         TextView movieTitleView = (TextView) convertView.findViewById(R.id.list_item_movie_title);
         movieTitleView.setText(popularMovies.movieTitle);
 
-        TextView releasedateView = (TextView) convertView.findViewById(R.id.list_item_release_date);
+        EditText releasedateView = (EditText) convertView.findViewById(R.id.list_item_release_date);
         releasedateView.setText(popularMovies.releaseDate);
 
         return convertView;
