@@ -6,7 +6,6 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.GridView;
 
 
 public class MoviesFragment extends Fragment {
@@ -22,8 +21,7 @@ public class MoviesFragment extends Fragment {
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.fragment_movies, container, false);
 
-        GridView moviegridview = (GridView) rootView.findViewById(R.id.gridview);
-        moviegridview.setAdapter(new MovieImageAdapter(getActivity()));
+
 
         return rootView;
     }
