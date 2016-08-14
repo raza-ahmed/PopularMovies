@@ -2,60 +2,60 @@
 <items version="2" >
 
     <item
-        jar="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="ad38618b76b90824a8eade504be129da89d7729e">
-        <dex dex="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/pre-dexed/debug/instant-run_185fb5fa49f7e97f5c421af1fe4284111c148079.jar" />
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_ec7387a095d6e0aee8c001718c725aa539394259.jar" />
     </item>
     <item
-        jar="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_1f781ebbaf5ece4633956650aced5edc560374cc.jar" />
-    </item>
-    <item
-        jar="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_36763a455dd3c7652f57b8c1f1c2c774e4e337b2.jar" />
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_4f2a2b36660026ddb00837c6c751157729d8a388.jar" />
     </item>
     <item
-        jar="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_504fed95b60252db58a8b7a223a9dcdaf13dc122.jar" />
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_5ad4fca19a9d03c6ad956689daedbc0a1312c712.jar" />
     </item>
     <item
         jar="/Users/ahmedraza/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_0c65478820249e918c711077979a4a7fb2965237.jar" />
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_0c65478820249e918c711077979a4a7fb2965237.jar" />
     </item>
     <item
-        jar="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="483492609ffd4ac78c5ad19276eae9082ee5434e">
-        <dex dex="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_38138bc2de7e4624ccb4c1b0a59b55d63c549196.jar" />
+        sha1="4032adf73b59e1b2ed190b82fc6ddc0ceb71693c">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_77d496a978c8920f17606bcc444e992924345a31.jar" />
     </item>
     <item
-        jar="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_24b772c1bf09a69dd62b845211eaff5ee217229e.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5a442441cee9007371dc90b26808a54b070aab6d">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/pre-dexed/debug/instant-run_150a132a59492e69cb0cebc2f518dbcbe28bbfcd.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_2d43d39c9d21fb3297328252058ba07017373541.jar" />
-    </item>
-    <item
-        jar="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="/Users/ahmedraza/Desktop/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_5fc07ed0eadd94a89b75e01b1936d8959fa38298.jar" />
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_1adcfd603883adbfa9aed648090e2571dd6b3c06.jar" />
     </item>
 
 </items>
