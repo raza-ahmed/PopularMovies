@@ -6,12 +6,17 @@
 
     <!-- TODO: Update blank fragment layout -->
 
-    <ListView
+    <GridView
         android:id="@+id/list_view_moviecollection"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-    </ListView>
+        android:layout_height="match_parent"
+        android:columnWidth="150dp"
+        android:numColumns="auto_fit"
+        android:verticalSpacing="0dp"
+        android:horizontalSpacing="0dp"
+        android:stretchMode="columnWidth"
+        >
+    </GridView>
 
 
 

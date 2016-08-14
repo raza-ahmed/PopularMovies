@@ -6,14 +6,11 @@ package com.example.android.popularmovies;
 public class MovieCollection {
 
     String movieTitle;
-    String movieDate;
     int moviePoster;
 
-    public MovieCollection(String mvTitle, String mvDate, int mvPoster){
+    public MovieCollection(String mvTitle, int mvPoster){
         this.movieTitle = mvTitle;
-        this.movieDate = mvDate;
         this.moviePoster = mvPoster;
-
     }
 
 }

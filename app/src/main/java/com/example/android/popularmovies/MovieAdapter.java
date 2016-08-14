@@ -37,8 +37,7 @@ public class MovieAdapter extends ArrayAdapter<MovieCollection>{
         iconView.setImageResource(movieCollection.moviePoster);
         TextView titleView = (TextView) convertView.findViewById(R.id.list_item_movie_title);
         titleView.setText(movieCollection.movieTitle);
-        TextView dateView = (TextView) convertView.findViewById(R.id.list_item_movie_date);
-        dateView.setText(movieCollection.movieDate);
+
 
 
         return convertView;
