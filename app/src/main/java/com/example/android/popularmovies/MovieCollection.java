@@ -6,9 +6,9 @@ package com.example.android.popularmovies;
 public class MovieCollection {
 
     String movieTitle;
-    int moviePoster;
+    String moviePoster;
 
-    public MovieCollection(String mvTitle, int mvPoster){
+    public MovieCollection(String mvTitle, String mvPoster){
         this.movieTitle = mvTitle;
         this.moviePoster = mvPoster;
     }
