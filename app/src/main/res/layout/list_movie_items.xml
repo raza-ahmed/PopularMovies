@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relative_layout_image"
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     >
 
     <ImageView
-        android:id="@+id/list_item_icon"
+        android:id="@+id/image_item_icon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
@@ -16,18 +17,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Feel The Light"
-            android:layout_alignLeft="@id/list_item_icon"
-            android:layout_alignTop="@id/list_item_icon"
-            android:layout_alignRight="@id/list_item_icon"
-            android:layout_alignBottom="@id/list_item_icon"
+            android:layout_alignLeft="@id/image_item_icon"
+            android:layout_alignTop="@id/image_item_icon"
+            android:layout_alignRight="@id/image_item_icon"
+            android:layout_alignBottom="@id/image_item_icon"
             android:gravity="center"
             android:shadowColor="#eaecee"
             />
-
-    <!--<Button-->
-        <!--android:layout_width="wrap_content"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:text="Run Fetch weather task"-->
-        <!--android:id="@+id/button_id"/>-->
 
 </RelativeLayout>
