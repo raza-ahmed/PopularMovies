@@ -60,7 +60,7 @@ public class MoviesAdapter extends RecyclerView.Adapter<MoviesAdapter.MoviesView
         Picasso.with(context)
                 .load(mMovieResults.getPosterUrl())
                 .into(holder.imageItmIcon);
-        holder.listItemMovieTitle.setText(movies.get(position).getTitle());
+        holder.listItemMovieTitle.setText(movies.get(position).getOriginalTitle());
     }
 
     @Override
